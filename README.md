@@ -1,2 +1,3 @@
 # learning
 学习仓库
+这个是一个rabbitMQ的demo分支，里面包括rabbitMQ的5种类型的demo，结合SpringBOOT框架，用swagger接口测试
